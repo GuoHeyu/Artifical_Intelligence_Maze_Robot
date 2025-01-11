@@ -1,1 +1,1 @@
-# Artifical_Intelligence_Maze_Robot
+# Artifical Intelligence Project in Beijing University: Maze Robot with Vision and Path Planing
